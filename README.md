@@ -1,11 +1,11 @@
 # Contact Management App with Charts and Maps
 
-![Contact Management App](./contact_management_app/ScreenShots/Contact_Page.PNG)
+
 
 This innovative Contact Management App is crafted using cutting-edge technologies such as ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. It seamlessly combines contact management with real-time COVID-19 data visualization through interactive charts and maps.
 
 ## Explore the App
-### 🚀 **[Launch the App](https://contact-management-webapp.vercel.app/)**
+### 🚀 **[Launch the App](https://main--luminous-marshmallow-18de66.netlify.app/)**
 
 ## Key Features
 ### Contacts
@@ -14,7 +14,7 @@ This innovative Contact Management App is crafted using cutting-edge technologie
 - **Interactive Form**: The intuitive form makes adding new contacts a breeze.
 - **Seamless Navigation**: Navigate between contacts effortlessly using React Router v6.
 
-![Contact Form](./contact_management_app/ScreenShots/Contact_form.PNG)
+
 
 ### Charts and Maps
 - **Real-Time COVID-19 Data**: Stay informed with up-to-date COVID-19 statistics.
@@ -22,7 +22,7 @@ This innovative Contact Management App is crafted using cutting-edge technologie
 - **Global View**: Explore a world map with markers indicating country-specific COVID-19 data.
 - **Informative Popups**: Click on markers to view country names, active cases, recoveries, and deaths.
 
-![Charts and Maps](./contact_management_app/ScreenShots/Charts_and_Map_2.PNG)
+
 
 ## APIs Used
 The app relies on the following APIs for data:
@@ -47,20 +47,6 @@ Follow these simple steps to run the app locally:
 2. **Install Dependencies**: Run `npm install` to install the required dependencies.
 3. **Start the App**: Launch the app with `npm start`. It will open in your default browser at `http://localhost:3000/`.
 
-## Screenshots Showcase
 
-### Contact Page
-
-![Contact Page](./contact_management_app/ScreenShots/Contact_Page_2.PNG)
-
-### Contact Details
-
-![Contact Details](./contact_management_app/ScreenShots/Contact_Details.PNG)
-
-### Charts and Maps
-
-![Charts and Maps](./contact_management_app/ScreenShots/Chart_And_Maps_1.PNG)
-
----
 
 Experience a new dimension in contact management with real-time insights. Dive into the app and stay connected, informed, and in control.
